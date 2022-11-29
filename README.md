@@ -1,16 +1,12 @@
 # 🚧 README em construção 🚧
 
-<!-- Olá, Tryber!
+# Football Score
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+## Sobre
 
-É essencial que você preencha esse documento por conta própria, ok?
+O objetivo desse projeto foi resolver desafios de lógica de programação utilizando conceitos de complexidade de algoritmos.<br>
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+## Ferramentas utilizadas
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+* Python
+* TPytest
