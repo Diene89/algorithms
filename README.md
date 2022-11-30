@@ -1,6 +1,6 @@
 # 🚧 README em construção 🚧
 
-# Football Score
+# Algorithms
 
 ## Sobre
 
