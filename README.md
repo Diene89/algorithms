@@ -9,4 +9,4 @@ O objetivo desse projeto foi resolver desafios de lógica de programação utili
 ## Ferramentas utilizadas
 
 * Python
-* TPytest
+* Pytest
